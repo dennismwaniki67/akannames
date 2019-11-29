@@ -8,12 +8,8 @@ A web application that takes a user's birthday and calculates the day of the wee
 
 - HTML & CSS (Bootstrap)
 - FontAwesome Icons
-- JavaScript (jQuery 3.4.1)
-- Animate CSS
+- JavaScript 
 
-##### Requirements
-
-JSFiddle or JavaScript Console
 
 ##### Setup Instructions and Installation
 
@@ -37,26 +33,6 @@ JSFiddle or JavaScript Console
 4. Clears Form and Reset the Message on Click
    - INPUT: "Click Reset Button" 
    - OUTPUT: "Clears and Resets the Form"
-
-## Development
-
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-- Fork the repo
-- Create a new branch (git checkout -b improve-feature)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (git commit -am 'Improve feature')
-- Push to the branch (git push origin improve-feature)
-- Create a Pull Request
-
-
-## Known Bugs
-
-If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
 
 ##### Link to Live Site : [https://dennismwaniki67.github.io/akannames/](https://dennismwaniki67.github.io/akannames/)

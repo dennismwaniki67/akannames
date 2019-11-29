@@ -11,3 +11,12 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.akan-description{
+	width: 70%;
+}
+.main{
+	float:right;
+}
+.footer{
+text-align:center ;
+}
