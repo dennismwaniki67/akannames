@@ -1,6 +1,8 @@
 # Akan-Names
 
-A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. 
+A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender.
+Outputs their Akan Name. Akan names are derived from Ghanian culture. 
+Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. 
 
 
 
@@ -18,28 +20,14 @@ A web application that takes a user's birthday and calculates the day of the wee
 - Open `index.html` on your Browser.
 
 
-## Behaviour Driven Development
 
-1. Displays Form For Entering Date and Gender
-   - INPUT: "User's Birthdate Entered"
-   - INPUT: "User's Gender Entered"
-   - OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
-2. Displays an Error Message if Date Input Left Blank
-   - INPUT: ""
-   - OUTPUT: "Displays Error Message"
-3. Displays an Error Message if Gender Not Chosen
-   - INPUT: "" 
-   - OUTPUT: "Display an Error Message" 
-4. Clears Form and Reset the Message on Click
-   - INPUT: "Click Reset Button" 
-   - OUTPUT: "Clears and Resets the Form"
 
 
 ##### Link to Live Site : [https://dennismwaniki67.github.io/akannames/](https://dennismwaniki67.github.io/akannames/)
 
 ### License
 
-*MIT*
+
 Copyright (c) 2019 **DENNIS MWANIKI**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
