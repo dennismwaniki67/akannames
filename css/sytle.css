@@ -1,5 +1,5 @@
 body{
-	background-color: brown;
+	background-color:yellow;
 	background-image:"images/1.jpeg";
 	
 }
@@ -12,7 +12,7 @@ body{
 	background-size: cover;
 }
 .akan-description{
-	width: 70%;
+	width: 80%;
 }
 
 .footer{
