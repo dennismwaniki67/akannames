@@ -12,14 +12,14 @@ body{
 	background-size: cover;
 }
 .akan-description{
-	width: 70%;
+	width: 80%;
 }
 
 .footer{
 text-align:center ;
 }
 h1{
-	color: hotpink;
+	color: rgb(126, 99, 112);
 }
 .onclick{float: right;
 	
