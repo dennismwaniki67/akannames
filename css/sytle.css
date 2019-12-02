@@ -1,13 +1,12 @@
 body{
-	background-color:blue;
-	background-image:"images/2.jpg";
+	background-color:red;
 	
 }
 p{
 color: green;
 }
 body{
-	background-image: url(/images/2.jpeg);
+	background-image: url(/images/1.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
