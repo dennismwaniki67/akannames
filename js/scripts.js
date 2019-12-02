@@ -24,7 +24,7 @@ function getAkanName(){
                     $('#message span:last-child').addClass("animated fadeInUp");
                 }
                 else {
-                    document.getElementById('message').innerHTML = "<span><i class=\"fa fa-female\"></i></span>&nbsp;&nbsp; Born on a <span>" + days['dayOfTheWeek'] + "</span>, Your Akan Name's <span>" + femaleAkanNames[dayOfTheWeek] + "</span>";
+                    document.getElementById('message').innerHTML = "<span><i class=\"fa fa-female\"></i></span>&nbsp;&nbsp; Born on a <span>" + days['dayOfTheWeek'] + "</span>, Your Akan Name's <span>" + femaleAkanNames['dayOfTheWeek'] + "</span>";
                     $('#message span:first-child').addClass("animated fadeInDown");
                     $('#message span:last-child').addClass("animated fadeInUp");
                 }
